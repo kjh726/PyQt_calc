@@ -12,3 +12,8 @@ PyQt5 based calculator - used for practice
 
 * pyqt5 모듈 설치
 * 파이썬 파일 실행
+
+## 주의사항
+* 모든 버튼들은 QGridLayout을 활용하여 구현
+* 계산은 math나 numpy 라이브러리 활용하여 구현(exec 함수 사용 계산 금지)
+* 생성한 이슈에 따라 브랜치 생성, 구현, 병합 절차 밟을 것
