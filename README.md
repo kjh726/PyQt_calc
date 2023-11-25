@@ -1,6 +1,7 @@
 # PyQt_calc
 PyQt5 based calculator - used for practice
-\n(based on https://studyingrabbit.tistory.com/23)
+
+(based on https://studyingrabbit.tistory.com/23)
 
 ## Goals
 
