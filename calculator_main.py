@@ -33,7 +33,7 @@ class Main(QDialog):
         button_division.clicked.connect(lambda state, operation = "/": self.button_operation_clicked(operation))
 
         ### 사칙연산 버튼을 layout_operation 레이아웃에 추가
-        basic_operations = [button_division, button_product, button_plus, button_minus]
+        basic_operations = [button_division, button_product, button_minus, button_plus]
         for i in range(4):
             layout_button.addWidget(basic_operations[i], i, 3)
 
